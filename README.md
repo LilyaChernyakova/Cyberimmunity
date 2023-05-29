@@ -97,4 +97,5 @@ _Stop_ останавливает все внутренние процессы �
 - Github wiki по теме со ссылками на примеры и решения на Python и Java https://github.com/sergey-sobolev/cyberimmune-systems/wiki/%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B8%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%82%D0%B5%D1%82
 - Заготовка описания решения команды https://github.com/sergey-sobolev/secure-update/blob/main/docs/report/report.md
 #   C y b e r i m m u n i t y  
+ #   C y b e r i m m u n i t y  
  
